@@ -8,7 +8,15 @@
 		<Item Name="1-1.vi" Type="VI" URL="../1-1.vi"/>
 		<Item Name="1-2.vi" Type="VI" URL="../1-2.vi"/>
 	</Item>
-	<Item Name="2" Type="Folder"/>
+	<Item Name="2" Type="Folder">
+		<Item Name="2-1.vi" Type="VI" URL="../2-1.vi"/>
+		<Item Name="2-2.vi" Type="VI" URL="../2-2.vi"/>
+		<Item Name="Pick RPS Play.vi" Type="VI" URL="../Pick RPS Play.vi"/>
+		<Item Name="RPS Play.ctl" Type="VI" URL="../RPS Play.ctl"/>
+		<Item Name="RPS Result.ctl" Type="VI" URL="../RPS Result.ctl"/>
+		<Item Name="RPS Turn Score.vi" Type="VI" URL="../RPS Turn Score.vi"/>
+		<Item Name="RPS Turn.ctl" Type="VI" URL="../RPS Turn.ctl"/>
+	</Item>
 	<Item Name="3" Type="Folder"/>
 	<Item Name="4" Type="Folder"/>
 	<Item Name="5" Type="Folder"/>
