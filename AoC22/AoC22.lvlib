@@ -17,7 +17,11 @@
 		<Item Name="RPS Turn Score.vi" Type="VI" URL="../RPS Turn Score.vi"/>
 		<Item Name="RPS Turn.ctl" Type="VI" URL="../RPS Turn.ctl"/>
 	</Item>
-	<Item Name="3" Type="Folder"/>
+	<Item Name="3" Type="Folder">
+		<Item Name="3-1.vi" Type="VI" URL="../3-1.vi"/>
+		<Item Name="3-2.vi" Type="VI" URL="../3-2.vi"/>
+		<Item Name="Badge Priority.vi" Type="VI" URL="../Badge Priority.vi"/>
+	</Item>
 	<Item Name="4" Type="Folder"/>
 	<Item Name="5" Type="Folder"/>
 	<Item Name="6" Type="Folder"/>
