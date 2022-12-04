@@ -22,7 +22,10 @@
 		<Item Name="3-2.vi" Type="VI" URL="../3-2.vi"/>
 		<Item Name="Badge Priority.vi" Type="VI" URL="../Badge Priority.vi"/>
 	</Item>
-	<Item Name="4" Type="Folder"/>
+	<Item Name="4" Type="Folder">
+		<Item Name="4-1.vi" Type="VI" URL="../4-1.vi"/>
+		<Item Name="4-2.vi" Type="VI" URL="../4-2.vi"/>
+	</Item>
 	<Item Name="5" Type="Folder"/>
 	<Item Name="6" Type="Folder"/>
 	<Item Name="7" Type="Folder"/>
