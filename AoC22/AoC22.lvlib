@@ -26,7 +26,10 @@
 		<Item Name="4-1.vi" Type="VI" URL="../4-1.vi"/>
 		<Item Name="4-2.vi" Type="VI" URL="../4-2.vi"/>
 	</Item>
-	<Item Name="5" Type="Folder"/>
+	<Item Name="5" Type="Folder">
+		<Item Name="5-1.vi" Type="VI" URL="../5-1.vi"/>
+		<Item Name="5-2.vi" Type="VI" URL="../5-2.vi"/>
+	</Item>
 	<Item Name="6" Type="Folder"/>
 	<Item Name="7" Type="Folder"/>
 	<Item Name="8" Type="Folder"/>
