@@ -35,14 +35,64 @@
 		<Item Name="6-2-2.vi" Type="VI" URL="../6-2-2.vi"/>
 		<Item Name="6-2.vi" Type="VI" URL="../6-2.vi"/>
 	</Item>
-	<Item Name="7" Type="Folder"/>
-	<Item Name="8" Type="Folder"/>
-	<Item Name="9" Type="Folder"/>
-	<Item Name="10" Type="Folder"/>
-	<Item Name="11" Type="Folder"/>
-	<Item Name="12" Type="Folder"/>
-	<Item Name="13" Type="Folder"/>
-	<Item Name="14" Type="Folder"/>
+	<Item Name="7" Type="Folder">
+		<Item Name="7-1.vi" Type="VI" URL="../7-1.vi"/>
+		<Item Name="7-2.vi" Type="VI" URL="../7-2.vi"/>
+		<Item Name="Disk Node.ctl" Type="VI" URL="../Disk Node.ctl"/>
+	</Item>
+	<Item Name="8" Type="Folder">
+		<Item Name="8-1.vi" Type="VI" URL="../8-1.vi"/>
+		<Item Name="Tree.ctl" Type="VI" URL="../Tree.ctl"/>
+	</Item>
+	<Item Name="9" Type="Folder">
+		<Item Name="9-1.vi" Type="VI" URL="../9-1.vi"/>
+		<Item Name="9-2 Set.vi" Type="VI" URL="../9-2 Set.vi"/>
+		<Item Name="9-2.vi" Type="VI" URL="../9-2.vi"/>
+	</Item>
+	<Item Name="10" Type="Folder">
+		<Item Name="10-1.vi" Type="VI" URL="../10-1.vi"/>
+		<Item Name="10-2.vi" Type="VI" URL="../10-2.vi"/>
+	</Item>
+	<Item Name="11" Type="Folder">
+		<Item Name="11-1.vi" Type="VI" URL="../11-1.vi"/>
+		<Item Name="Monkey.lvclass" Type="LVClass" URL="../Monkey/Monkey.lvclass"/>
+	</Item>
+	<Item Name="12" Type="Folder">
+		<Item Name="Map" Type="Folder">
+			<Item Name="Calculate H Score.vi" Type="VI" URL="../Calculate H Score.vi"/>
+			<Item Name="Get G Score.vi" Type="VI" URL="../Get G Score.vi"/>
+			<Item Name="Make Vis.vi" Type="VI" URL="../Make Vis.vi"/>
+			<Item Name="Map Neighbors.vi" Type="VI" URL="../Map Neighbors.vi"/>
+			<Item Name="Map.ctl" Type="VI" URL="../Map.ctl"/>
+			<Item Name="Next Open.vi" Type="VI" URL="../Next Open.vi"/>
+			<Item Name="Update Path.vi" Type="VI" URL="../Update Path.vi"/>
+		</Item>
+		<Item Name="12-1.vi" Type="VI" URL="../12-1.vi"/>
+		<Item Name="12-2.vi" Type="VI" URL="../12-2.vi"/>
+	</Item>
+	<Item Name="13" Type="Folder">
+		<Item Name="Controls" Type="Folder">
+			<Item Name="Packet Parser.ctl" Type="VI" URL="../Packet Parser.ctl"/>
+			<Item Name="Packet Token.ctl" Type="VI" URL="../Packet Token.ctl"/>
+		</Item>
+		<Item Name="SubVIs" Type="Folder">
+			<Item Name="Check Packets.vi" Type="VI" URL="../Check Packets.vi"/>
+			<Item Name="Consume Packet Token.vi" Type="VI" URL="../Consume Packet Token.vi"/>
+			<Item Name="Packet Compare.lvclass" Type="LVClass" URL="../Packet Compare/Packet Compare.lvclass"/>
+			<Item Name="Parse Packet.vi" Type="VI" URL="../Parse Packet.vi"/>
+		</Item>
+		<Item Name="13-1-2.vi" Type="VI" URL="../13-1-2.vi"/>
+		<Item Name="13-1.vi" Type="VI" URL="../13-1.vi"/>
+		<Item Name="13-2.vi" Type="VI" URL="../13-2.vi"/>
+		<Item Name="Packet Item.ctl" Type="VI" URL="../Packet Item.ctl"/>
+		<Item Name="Test Check Packets.vi" Type="VI" URL="../Test Check Packets.vi"/>
+	</Item>
+	<Item Name="14" Type="Folder">
+		<Item Name="14-1.vi" Type="VI" URL="../14-1.vi"/>
+		<Item Name="14-2.vi" Type="VI" URL="../14-2.vi"/>
+		<Item Name="I32Vec2.ctl" Type="VI" URL="../I32Vec2.ctl"/>
+		<Item Name="Regolith Cell.ctl" Type="VI" URL="../Regolith Cell.ctl"/>
+	</Item>
 	<Item Name="15" Type="Folder"/>
 	<Item Name="16" Type="Folder"/>
 	<Item Name="17" Type="Folder"/>
